@@ -4,3 +4,6 @@ Le but est d'importer une string d'un fichier nommé "sample.txt" et de le modif
 Par exemple (cap) doit être identifié dans une string et transforme le mot précédent en capitales. 
 la string modifiée est retranscrite dans un fichier "result.txt". 
 Nous vérifions alors les modifications par la commande "cat (nom fichier)", après avoir lancé le programme. 
+
+
+Subject : https://zone01normandie.org/git/root/public/src/branch/master/subjects/go-reloaded
